@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "399978504330",
+    "project_id": "live-chat-prac-android",
+    "storage_bucket": "live-chat-prac-android.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:399978504330:android:62211bf9aa440f81074d73",
+        "android_client_info": {
+          "package_name": "com.example.live_chat_android"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "399978504330-2inua1ra918qa86srj00oa4bv9ec7k3v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAuTPlXOs9OKi4gNiN2KHqqkK43xPXqZdc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "399978504330-2inua1ra918qa86srj00oa4bv9ec7k3v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
